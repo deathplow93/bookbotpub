@@ -1,1 +1,4 @@
 books/
+.venv/
+.flake8
+settings.json
